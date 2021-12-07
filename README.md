@@ -14,4 +14,4 @@
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
-Right now I'm focused on React & TS & Redux
+Right now I'm focused on Spring & Thymeleaf
