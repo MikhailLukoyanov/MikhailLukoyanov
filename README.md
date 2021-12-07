@@ -1,6 +1,6 @@
-## Hi I'm Azat Usmanov
+## Hi I'm Lukoyanov Mikhail
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&labelColor=E2E2E2&logo=telegram&logoColor=B23121)](https://t.me/azatik_2001)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&labelColor=E2E2E2&logo=telegram&logoColor=B23121)](https://t.me/L_u_u_k_a)
 
 
 ### Technologies
